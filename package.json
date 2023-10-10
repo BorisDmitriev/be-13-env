@@ -1,0 +1,23 @@
+{
+  "name": "be-13-env-borisdmitriev",
+  "version": "1.0.0",
+  "description": "## Task description",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FBW-WD-22-D07/be-13-env-BorisDmitriev.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FBW-WD-22-D07/be-13-env-BorisDmitriev/issues"
+  },
+  "homepage": "https://github.com/FBW-WD-22-D07/be-13-env-BorisDmitriev#readme",
+  "dependencies": {
+    "dotenv": "^16.0.3"
+  }
+}
